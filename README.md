@@ -1,9 +1,7 @@
 ### Hi there 👋
 I am Siya Vats
-
-
-## 🚀 About Me
-I'm a full stack developer...
+I'm a NextJS SaaS Developer
+visit my portfolio website: siyavats.com
 
 
 ## 🔗 Links
@@ -14,12 +12,11 @@ I'm a full stack developer...
 
 ## Tech Stack
 
-**Client:** React, next, TailwindCSS, Bootstrap
+**Client:** NextJS, ReactJS
 
-**Server:** Node, Express
+**CMS:** Strapi, Sanity and wordpress
 
 
-## 🛠 Skills
-Javascript, HTML, CSS, Nextjs, Nodejs, Expressjs, Mongodb
+
 
 
